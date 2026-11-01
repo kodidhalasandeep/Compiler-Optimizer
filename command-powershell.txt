@@ -1,0 +1,1 @@
+python optimizer.py test_code.tac --optimize --cfg
